@@ -604,5 +604,5 @@ Owner: vidyarasu@gmail.com
 
 GitHub Repository: https://github.com/vrasup/databricks-ecommerce-analytics-ai-platform/tree/main
 
-LinkedIn Post Submission: 
+LinkedIn Post Submission: https://www.linkedin.com/posts/vidhya-rasu-74a9b31a5_databrickswithidc-lakehouse-dataengineering-activity-7423573681597071360-eMeD?utm_source=share&utm_medium=member_desktop&rcm=ACoAADAGD2oBe0MTbjIdTWmtLFyFNgz6dcAwWHA
 
