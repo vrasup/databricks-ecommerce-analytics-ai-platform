@@ -602,7 +602,7 @@ Hashtag: #DatabricksWithIDC
 
 Owner: vidyarasu@gmail.com
 
-GitHub Repository: 
+GitHub Repository: https://github.com/vrasup/databricks-ecommerce-analytics-ai-platform/tree/main
 
 LinkedIn Post Submission: 
 
